@@ -1,0 +1,9 @@
+- model: course.course
+  pk: 1234
+  fields:
+    name: 'asd'
+
+- model: course.course
+  pk: 5678
+  fields:
+    name: 'asdadsad'
